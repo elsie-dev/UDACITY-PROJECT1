@@ -9,7 +9,7 @@
  
  **Web Browser Access**
  
- [Distributed Domain](https://djderml2h6ayz.cloudfront.net/")
+###### Distributed Domain https://djderml2h6ayz.cloudfront.net
 
- 
- [Bucket Endpoint]( http://bucket666546987452.s3-website-us-east-1.amazonaws.com")
+###### Bucket Endpoint  http://bucket666546987452.s3-website-us-east-1.amazonaws.com
+
