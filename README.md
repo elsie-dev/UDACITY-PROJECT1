@@ -4,7 +4,7 @@
 
 [![Safari Blog][product-screenshot]](https://bucket666546987452.s3.amazonaws.com/index.html)
 
-It involves Deploying A Static Website in the Aws Console via the s3 bucket.
+It involves Deploying Safari Blog in the Aws Console via the s3 bucket.
 The project is then made accessibly public with IAM Permissions and later distributed by Cloud Front.
 
 ### FILES USED
